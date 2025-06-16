@@ -1,4 +1,4 @@
-🎹 Projeto: Piano Virtual
+#🎹 Projeto: Piano Virtual
 Bem-vindo ao meu projeto de Piano Virtual feito com HTML, CSS e JavaScript! 🚀
 
 ✅ O que eu aprendi neste projeto:
