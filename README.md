@@ -6,7 +6,7 @@ Bem-vindo ao meu projeto de Piano Virtual feito com HTML, CSS e JavaScript! 🚀
 
 🧱 Manipulação de elementos na DOM (Document Object Model)
 
-🎛️ Como mapear teclas do teclado físico para tocar sons específicos
+🎛️ Como mapear teclas do teclado para tocar sons específicos
 
 🎨 Um pouco de estilização com CSS para deixar o piano visualmente agradável
 
@@ -23,7 +23,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/wbelhome/piano-keys.git
 Abra o arquivo index.html em qualquer navegador.
 
 Pronto! Divirta-se tocando!
